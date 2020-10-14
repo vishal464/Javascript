@@ -12,7 +12,7 @@ int main()
             printf("Hey");
         }
     }
-    if (true)
+    if (1)
         printf("Hello");
     return 0;
 }
